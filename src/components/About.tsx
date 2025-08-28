@@ -69,7 +69,7 @@ export default function About() {
             
             <div className="pt-4">
               <a 
-                href="#" 
+                href="https://drive.google.com/drive/u/2/home" 
                 className="inline-flex items-center text-white font-medium hover:text-gray-300 transition-colors"
               >
                 Download Resume

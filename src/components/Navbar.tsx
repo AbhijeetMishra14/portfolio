@@ -36,8 +36,8 @@ export default function Navbar({ activeSection, setActiveSection }: NavbarProps)
         <div className="flex flex-col md:flex-row md:justify-between md:items-center">
           <div className="flex justify-between items-center">
             <h1 className="text-2xl font-bold">
-              <span className="text-white">John</span>
-              <span className="text-gray-400">Doe</span>
+              <span className="text-white">Abhijeet</span>
+              <span className="text-gray-400">Mishra</span>
             </h1>
             
             {/* Mobile menu button */}
